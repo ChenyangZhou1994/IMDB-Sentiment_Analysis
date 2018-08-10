@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IMDB-Sentiment_Analysis #
 ## 项目名称：IMDB电影评论的情感分析 ##
 ## 项目描述： ##
@@ -15,3 +16,6 @@ numpy=1.14.5
 
 
 本项目是在Jupyter Notebook上完成,运行Keras_Imdb.ipynb 下载数据集，然后就可以分别运行另外三个文件了。
+=======
+# IMDB-Sentiment_Analysis
+>>>>>>> a4de98d176499bac29cd86b36ff00d36ea4b3b7c
